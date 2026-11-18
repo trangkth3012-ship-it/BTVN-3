@@ -8,7 +8,7 @@
 ## 1. THÔNG TIN SINH VIÊN
 * **Họ và tên:** Phạm Nguyễn Minh Trang
 * **Mã số sinh viên (MSSV):** 31241024211
-* **Lớp học phần:** 26C1ÌN50902702
+* **Lớp học phần:** 26C1INF50902702
 * **GitHub Cá nhân:** [trangkth3012-ship-it](https://github.com/trangkth3012-ship-it)
 * **GitHub Repository:** [https://github.com/trangkth3012-ship-it/BTVN-3](https://github.com/trangkth3012-ship-it/BTVN-3)
 
